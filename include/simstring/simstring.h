@@ -45,6 +45,7 @@
 #include <stdexcept>
 #include <string>
 #include <vector>
+#include <unistd.h>
 
 #include "ngram.h"
 #include "measure.h"
